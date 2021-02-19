@@ -1,2 +1,3 @@
 Proso text
 vtoraya stroka
+tretiya stroka
